@@ -17,8 +17,7 @@ function addStyleResource (rule) {
 
 module.exports = {
   siteName: 'Hackintosh Indonesia',
-  siteUrl: 'https://rockavoldy.github.io/hackintosh',
-  pathPrefix: '/hackintosh',
+  siteUrl: 'https://hackintosh.now.sh',
   templates: {
     Doc: '/:slug',
   },
