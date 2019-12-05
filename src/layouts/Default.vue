@@ -47,7 +47,7 @@ export default {
 <style lang="scss" scoped>
 .main {
   padding: 100px 30px 30px 30px;
-  max-width: 800px;
+  max-width: 1024px;
   transition: transform .15s ease-in-out;
 
   @include respond-above(sm) {
