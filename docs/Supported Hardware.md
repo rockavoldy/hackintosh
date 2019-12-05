@@ -136,3 +136,5 @@ INTEL, REALTEK, Ralink, Mediatek, dan lainnya **TIDAK DISUPPORT**. ***KECUALI***
 
 NOTE:
 > List diatas tidak menjamin wireless card akan jalan, tergantung dari firmware wifi itu sendiri, merk laptop (beberapa merk seperti Lenvoo ada disebut Whitelist).
+
+*Alih bahasa dari FAQs [r/hackintosh](https://www.reddit.com/r/hackintosh/wiki/faq)*
