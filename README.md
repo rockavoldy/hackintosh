@@ -12,18 +12,19 @@ Pages ini dibuat untuk merangkum berbagai hal menyangkut hackintosh berbahasa in
 
 
 ## TODO
-[x] Pendahuluan
-[x] Pertanyaan pengenalan hardware diri sendiri
-[] Validasi pertanyaan dan struktur ulang bahasa dan kalimat
-[] Panduan Instalasi
-[] Panduan dalam patching DSDT dan/atau SSDT
-[] Kumpulan resource SSDT Hotpatch
-[] Alih bahasa dan penambahan pada bagian Graphics Card -> AMD di Supported Hardware
-[] dll, silahkan buat Issues
+
+- [x] Pendahuluan
+- [x] Pertanyaan pengenalan hardware diri sendiri
+- [ ] Validasi pertanyaan dan struktur ulang bahasa dan kalimat
+- [ ] Panduan Instalasi
+- [ ] Panduan dalam patching DSDT dan/atau SSDT
+- [ ] Kumpulan resource SSDT Hotpatch
+- [ ] Alih bahasa dan penambahan pada bagian Graphics Card -> AMD di Supported Hardware
+- [ ] dll, silahkan buat Issues
 
 ## Credit
-- @rockavoldy
+- rockavoldy
 - InsanelyMac
 - r/hackintosh Reddit
-- @RehabMan
-- @Acidanthera
+- RehabMan
+- Acidanthera
