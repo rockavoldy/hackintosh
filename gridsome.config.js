@@ -16,8 +16,9 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Jamdocs',
-  siteUrl: 'https://jamdocs.netlify.com',
+  siteName: 'Hackintosh Indonesia',
+  siteUrl: 'https://rockavoldy.github.io',
+  pathPrefix: '/hackintosh',
   templates: {
     Doc: '/:slug',
   },
