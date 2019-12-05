@@ -1,11 +1,24 @@
 {
   "sidebar": [
     {
-      "section": "Pendahuluan",
+      "section": "Getting Started",
       "topics": [
         {
           "title": "Pendahuluan",
           "slug": "pendahuluan"
+        },
+        {
+          "title": "Supported Hardware",
+          "slug": "supported-hardware"
+        }
+      ]
+    },
+    {
+      "section": "TL;DR",
+      "topics": [
+        {
+          "title": "FAQs",
+          "slug": "frequently-asked-questions"
         }
       ]
     }
