@@ -26,7 +26,7 @@ slug: supported-hardware
         - codename "Whiskeylake": dari 10.13.6 - terbaru
         - codename "Cannonlake": dari 10.13.6 - terbaru
       - Atom: dengan patch sampai Snow Leopard (10.6.8)
-      - Pentium: **TIDAK DISUPPORT**
+      - Pentium: **TIDAK DISUPPORT** (Kecuali Pentium dengan codename "Arrandale". dengan syarat interface display yang dipakai LVDS)
       - Celeron: **TIDAK DISUPPORT**
    2. Desktop
       - Pentium 4: dengan patch
@@ -34,7 +34,7 @@ slug: supported-hardware
       - Core 2 Series:
         - codename "Merom": dari 10.4.8 - 10.7.5
         - codename "Penryn": dari 10.5.2 - 10.7.5
-        - codenam "Wolfdale": dari 10.6.1 - 10.13.x
+        - codename "Wolfdale": dari 10.6.1 - 10.13.x
       - Core i series:
         - codename "Lynnfield": dari 10.6.2 - 10.13.x
         - codename "Sandy Bridge": dari 10.6.6 - 10.13.x (bisa jalan di 10.14 keatas dengan tambahan Graphics Card)
@@ -76,7 +76,7 @@ slug: supported-hardware
 ## Graphics Card
 
 NOTE:
-> Jalur analog seperti VGA dan DVI Analog hanya di support dari Intel HD4000 sampai yang terbaru. Dan **TIDAK BISA DIPAKAI** pada Graphics card Nvidia dan AMD. maka gunakan jalur digital seperti HDMI, DVI-D, atau Display Port.
+> Jalur analog seperti VGA dan DVI Analog hanya di support dari Intel HD4000 sampai yang terbaru (pengecualian dengan Intel HD4400 dan HD4600 pada Desktop, pada Laptop bisa dipakai). Dan **TIDAK BISA DIPAKAI** pada Graphics card Nvidia dan AMD. maka gunakan jalur digital seperti HDMI, DVI-D, atau Display Port.
 
 1. Intel
    - Intel GMA950: sampai 10.7.5
@@ -86,7 +86,7 @@ NOTE:
    - Intel HD Graphics 3000: sampai 10.13.x
    - Intel HD Graphics 2500 (codename "Ivy Bridge"): **TIDAK DISUPPORT** (hanya bisa dipakai untuk QuickSync)
    - Intel HD Graphics 4000: sampai yang terbaru
-   - Intel HD Graphics 4200, 4400, 4600, 5000, 5100, 5200 dan Iris: sampai yang terbaru
+   - Intel HD Graphics 4200, 4400 (hanya Laptop), 4600 (hanya Laptop), 5000, 5100, 5200 dan Iris: sampai yang terbaru
    - Intel HD Graphics 5300, 5500, 5600, 6000 dan Iris/Pro: sampai yang terbaru
    - Intel HD Graphics HD510 sampai 550: sampai yang terbaru
    - Intel HD Graphics P530 (dan mungkin P555 dan P580): sampai yang terbaru
@@ -94,7 +94,7 @@ NOTE:
    - Intel HD Graphics HD615 sampai HD650: sampai yang terbaru
    - Intel HD Graphics UHD620 sampai UHD655: sampai yang terbaru
    
-   **SEMUA** Intel HD Graphics dari processor Atom/Celeron/Pentium **TIDAK DISUPPORT**
+   **SEMUA** Intel HD Graphics dari processor Atom/Celeron/Pentium **TIDAK DISUPPORT** (Pengecualian untuk Pentium dengan codename "Arrandale". dengan syarat interface display yang dipakai LVDS)
 
 2. Nvidia
    - Tesla Series: 8XXX dan terbaru support sampai 10.13.x, 7XXX mungkin tidak akan lebih dari 10.11.x
@@ -129,10 +129,13 @@ INTEL, REALTEK, Ralink, Mediatek, dan lainnya **TIDAK DISUPPORT**. ***KECUALI***
     - BCM94352HMB/AzureWave AW-CE123H/DW1550: support WiFi/ac dan BT4LE
 - Sampai 10.13.x:
   - BCM943224HMB: support Airport dan BT3
-  - AR9285/AR5B195: 2.4GHz 54/75Mbps (bisa jalan di 10.14.x dengan sedikit patch)
-  - AR9287/AR5B197: 2.4GHz 108/150Mbps (bisa jalan di 10.14.x dengan sedikit patch)
-  - AR9280: 2.4/5GHz 300Mbps (native, bisa jalan di 10.14.x dengan sedikit patch)
-  - AR9380: 2.4/5GHz 450Mbps (native, bisa jalan di 10.14.x dengan sedikit patch)
+  - AR9285/AR5B195: 2.4GHz 54/75Mbps (bisa jalan di 10.14.x dengan patch)
+  - AR9287/AR5B197: 2.4GHz 108/150Mbps (bisa jalan di 10.14.x dengan patch)
+  - AR9485: 2.4GHz (bisa jalan di 10.14.x dengan patch)
+  - AR9565: 2.4GHz (bisa jalan di 10.14.x dengan patch)
+  - AR946x: 2.4GHz (bisa jalan di 10.14.x dengan patch)
+  - AR9280: 2.4/5GHz 300Mbps (native, bisa jalan di 10.14.x dengan patch)
+  - AR9380: 2.4/5GHz 450Mbps (native, bisa jalan di 10.14.x dengan patch)
 
 NOTE:
 > List diatas tidak menjamin wireless card akan jalan, tergantung dari firmware wifi itu sendiri, merk laptop (beberapa merk seperti Lenvoo ada disebut Whitelist).
