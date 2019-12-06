@@ -7,7 +7,7 @@ slug: supported-hardware
 ## Processor
 1. Intel
    1. Laptop
-      - Core Duo/Solo (codename "Yonah" dengan Graohics card GMA950): dari 10.4.6 - 10.6.8
+      - Core Duo/Solo (codename "Yonah" dengan Graphics card GMA950): dari 10.4.6 - 10.6.8
       - Core 2 Series:
         - codename "Merom" dengan GMA950 atau X3100: dari 10.4.8 - 10.7.5
         - codename "Penryn" dengan X3100: dari 10.5.2 - 10.7.5
@@ -81,7 +81,7 @@ NOTE:
 1. Intel
    - Intel GMA950: sampai 10.7.5
    - Intel X3100: sampai 10.7.5
-   - Intel HD Graphics generasi pertama (codename "Arrandale"): sampai 10.13.x
+   - Intel HD Graphics generasi pertama: sampai 10.13.x
    - Intel HD Graphics 2000: **TIDAK DISUPPORT**
    - Intel HD Graphics 3000: sampai 10.13.x
    - Intel HD Graphics 2500 (codename "Ivy Bridge"): **TIDAK DISUPPORT** (hanya bisa dipakai untuk QuickSync)

@@ -20,7 +20,7 @@ Pages ini dibuat untuk merangkum berbagai hal menyangkut hackintosh berbahasa in
 - [ ] Panduan dalam patching DSDT dan/atau SSDT
 - [ ] Kumpulan resource SSDT Hotpatch
 - [ ] Alih bahasa dan penambahan pada bagian Graphics Card -> AMD di Supported Hardware
-- [ ] dll, silahkan buat Issues
+- [ ] dll, silahkan buat issues
 
 ## Credit
 - rockavoldy
@@ -28,3 +28,4 @@ Pages ini dibuat untuk merangkum berbagai hal menyangkut hackintosh berbahasa in
 - r/hackintosh Reddit
 - RehabMan
 - Acidanthera
+- Andres

@@ -1,5 +1,5 @@
 {
-  "name": "jamdocs",
+  "name": "hackintosh-id",
   "private": true,
   "scripts": {
     "build": "gridsome build",
