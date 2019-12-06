@@ -14,7 +14,12 @@
       ]
     },
     {
-      "section": "TL;DR",
+      "section": "Main",
+      "topics": [
+      ]
+    },
+    {
+      "section": "TLDR",
       "topics": [
         {
           "title": "FAQs",
