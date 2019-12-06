@@ -23,9 +23,9 @@ export default {
     Shortcut
   },
   metaInfo: {
-    title: 'The ultimate static generated documentation theme for the JAM-stack',
+    title: 'Hackintosh Indonesia | Panduan Berbahasa Indonesia',
     meta: [
-      { key: 'description', name: 'description', content: 'A theme for static site documentation based on Gridsome, ready to deploy to Netlify in one click.' }
+      { key: 'description', name: 'description', content: 'Panduan dan Pertanyaan yang terlalu sering ditanyakan di Hackintosh Indonesia' }
     ]
   }
 }
