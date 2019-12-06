@@ -5,21 +5,22 @@
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/pendahuluan" text="Getting Started" icon="play-icon" />
-        <Shortcut link="/theme-configuration" text="Supported Hardware" icon="list-icon" />
+        <Shortcut link="/supported-hardware" text="Supported Hardware" icon="list-icon" />
         <Shortcut link="/frequently-asked-questions" text="FAQs" icon="help-circle-icon" />
       </nav>
-      <!-- <GitLink class="git" size="large" /> -->
+      <GitLink class="git" size="large" />
     </div>
+    <GitLink size="large" />
   </Layout>
 </template>
 
 <script>
-// import GitLink from '~/components/GitLink.vue'
+import GitLink from '~/components/GitLink.vue'
 import Shortcut from '~/components/Shortcut.vue'
 
 export default {
   components: {
-    // GitLink,
+    GitLink,
     Shortcut
   },
   metaInfo: {
