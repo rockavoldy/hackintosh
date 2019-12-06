@@ -10,7 +10,6 @@
       </nav>
       <GitLink class="git" size="large" />
     </div>
-    <GitLink size="large" />
   </Layout>
 </template>
 
